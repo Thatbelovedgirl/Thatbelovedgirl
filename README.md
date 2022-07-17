@@ -11,9 +11,11 @@ My name is Olatunbosun Ayomide. I am a back end developer just at the start of h
 
 
 
-###Skills:
- ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+###Skills
+
+
+ - ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
  
  
- ![](https://img.shields.io/badge/Code-django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
+ - ![](https://img.shields.io/badge/Code-django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
 
