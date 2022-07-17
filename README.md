@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Olatunbosun Ayomide. I am a back end developer just at the start of her career. I'd love to connect and meet people of like minds and also learn from any one whose willing to teach. Here's a little about me;
 
 - 🌱 I’m currently learning how to code with python and also use Django and all it's framework.
 - 👯 I’m looking to collaborate on any open source project.
